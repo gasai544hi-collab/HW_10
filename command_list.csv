@@ -1,0 +1,66 @@
+    1  git config --global user.name "Alex"
+    2  git config --global user.email gasai544hi@gmail.com 
+    3  clone [200~https://github.com/gasai544hi-collab/HW_10.git~
+    4  ls
+    5  clear
+    6  ls
+    7  git clone https://github.com/gasai544hi-collab/HW_10.git
+    8  ls
+    9  cd HW_10
+   10  touch text_ignore.txt
+   11  ls
+   12  nano .gitignore
+   13  git status
+   14  git add .gitignore
+   15  commit
+   16  git commit
+   17  ls
+   18  cd OneDrive
+   19  ls
+   20  cd Desktop
+   21  ls
+   22  cd Gitt
+   23  ls
+   24  git ststus
+   25  clear
+   26  git status
+   27  ls
+   28  cd HW_10
+   29  git status
+   30  nano .gitignore
+   31  git log
+   32  ls
+   33  touch main_test.txt
+   34  git add main_test.txt
+   35  git commit -m "changed"
+   36  git status
+   37  ls
+   38  git checkout -b develop
+   39  git branch
+   40  touch develop_test.txt
+   41  git add develop_test.txt
+   42  git commit -m "changed"
+   43  git status
+   44  nano develop_test.txt
+   45  git status
+   46  git add develop_test.txt
+   47  git status
+   48  commit -m "chanched"
+   49  git status
+   50  git commit -m "changed"
+   51  git status
+   52  git checkout main
+   53  git checkout
+   54  git branch
+   55  git merge develop
+   56  git branch
+   57  git commit
+   58  git status
+   59  git log
+   60  git branch
+   61  git merge develop
+   62  git status
+   63  git branch
+   64  git status
+   65  [200~history > command_list.csv
+   66  history > command_list.csv
